@@ -10,5 +10,6 @@ This was written in python as a personal project for me to get more comfortable 
 
 To run:
 You must have Python3 installed
-  - if you do not have it installed and you have a linux machine, you can run ">sudo apt-get install python3.6"
+  - If you do not have it installed and you have a linux machine, you can run ">sudo apt-get install python3.6"
+
 Then run the "ship.py" file with command ">python3 ship.py"
