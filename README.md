@@ -1,6 +1,6 @@
 # Windwaker-Bombgame
 
-## This is a recreation of a bomb game in the video The Legend of Zelda Windwaker
+## This is a recreation of a bomb game in the videogame The Legend of Zelda Windwaker
 
 #### Essentially the game is a one player battleship, where there are 3 "squid" or "targets" you are trying to hit with the limited amount of bombs you have in a grid pane. 
 
